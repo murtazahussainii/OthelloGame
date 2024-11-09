@@ -2,7 +2,7 @@ package othello;
 
 
 import java.util.Iterator;
-
+ff
 /* 
  * SpotBoard
  * 
